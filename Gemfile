@@ -61,3 +61,4 @@ gem 'bootstrap-will_paginate', '1.0.0'
 
 gem 'bcrypt', '3.1.13'
 
+gem "devise", "~> 4.1"
